@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Thierry Francois -- design/developer -- @colymba
+
+# THANKS
+
+    
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, JS
+    Ember, Handlebar, Normalize.css, jQuery, Modernizr, NPM, Grunt
